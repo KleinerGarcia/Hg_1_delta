@@ -1,6 +1,6 @@
 # Delta
 
-# Charlie
+
 Hack Pull request
 
 <table style="width: 100%; text-align: center;">
